@@ -217,13 +217,13 @@ items:
       help:
         - ""
 inventories:
-  main_menu: "Edit Armor Stand"
-  settings: "Edit Armor Stand"
+  main_menu: "Edit Armour Stand"
+  settings: "Edit Armour Stand"
 msg:
   free_edit:
     cancelled: "Free edit mode was canceled!"
   edit:
     open:
-      cancelled: "&4You are not allowed to Edit the ArmorStand!"
+      cancelled: "&4You are not allowed to Edit the ArmourStand!"
   reload:
     complete: "Successfully reloaded config!"
