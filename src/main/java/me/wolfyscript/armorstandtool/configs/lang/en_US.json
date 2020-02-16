@@ -2,7 +2,7 @@
   "inventories": {
     "main": {
       "main_menu": {
-        "gui_name": "Edit Armor Stand",
+        "gui_name": "Edit Armour Stand",
         "items": {
           "base_plate": {
             "name": "&a&lBase plate",
@@ -117,7 +117,7 @@
         }
       },
       "settings": {
-        "gui_name": "Edit Armor Stand",
+        "gui_name": "Edit Armour Stand",
         "items": {
           "value": {
             "name": "%var%",
@@ -179,7 +179,7 @@
     },
     "edit": {
       "open": {
-        "cancelled": "&4You are not allowed to Edit the ArmorStand!"
+        "cancelled": "&4You are not allowed to Edit the ArmourStand!"
       }
     },
     "reload": {
